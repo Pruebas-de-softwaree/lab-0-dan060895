@@ -28,7 +28,7 @@ def maximum(list):
 if __name__ == "__main__":
 
     print("start test")
-    print("la division de 3 y 5 es: ",divide(3,5))
+    print("la potencia de 3 a la 2 es: ",power(3,2))
 
     print("hola")
     print("end test")
